@@ -11,10 +11,10 @@ This repository contains my Jupyter Notebook submission for the
 - ## Data Files
 This project uses multiple data sources that were merged into one final dataset:
 
-- orders.xlsx  
+- orders.csv
 - users.json  
 - restaurants.sql  
-- final_food_delivery_dataset.xlsx (final merged dataset used for analysis)
+- final_food_delivery_dataset.csv (final merged dataset used for analysis)
 
 
 ## Author
